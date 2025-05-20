@@ -1,6 +1,17 @@
-## 21 Days Python Challenge
+# 🎯 Day 1: Quiz Game
 
-This repo contains a new mini Python project for each day of the challenge.
+## 📌 Description
 
-### Day 1 - Quiz Game
-A simple command-line quiz game with score tracking.
+A simple multiple-choice quiz game. The program asks the user a series of questions, takes input, and gives a final score based on correct answers.
+
+## 🚀 Features
+
+- Multiple-choice questions
+- User input for answers
+- Score calculation
+- Feedback on correct/incorrect answers
+
+## 💻 How to Run
+
+```bash
+python quiz_game.py
