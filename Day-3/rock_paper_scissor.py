@@ -38,4 +38,5 @@ while True:
 #  Show final scores when the user quits the game
 print("You won", user_scores, "times")
 print("The computer won", computer_scores, "times")
+# goodgye to the player
 print("Goodbye")
