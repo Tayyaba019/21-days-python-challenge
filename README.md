@@ -16,5 +16,6 @@ Welcome to my 21-day Python challenge! Each day, I’m building a small project 
 | 6   | Dice Game                 | [Day-6](Day-6/) |
 | 7   | Mad Libs Game             | [Day-7](Day-7/) |
 | 8   | Math Speed Game           | [Day-8](Day-8/) |
+| 9   | Slot Machine Game         | [Day-9](Day-9/) |
 
 
