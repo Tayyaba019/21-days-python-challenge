@@ -19,6 +19,8 @@ Each day, I’m building a small project to improve my coding skills. 💻
 | 8   | Math Speed Game           | [Day-8](Day-8/)   |
 | 9   | Slot Machine Game         | [Day-9](Day-9/)   |
 | 10  | Turtle Racing Game        | [Day-10](Day-10/) |
+| 10  | WPM Typing Test           | [Day-11](Day-11/) |
+
 
 ---
 
