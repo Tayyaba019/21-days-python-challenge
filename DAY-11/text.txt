@@ -1,0 +1,5 @@
+Hello world my name is Tayyaba and I am Python developer.  
+I love solving problems using code and building useful apps.  
+Learning new things every day helps me become better.  
+Sometimes debugging is hard but it's part of the process.  
+Practice and patience always lead to improvement in coding.
