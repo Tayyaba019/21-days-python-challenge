@@ -24,6 +24,3 @@ Each day, I’m building a small project to improve my coding skills. 💻
 
 
 
----
-
-🎯 Stay tuned for more cool mini-projects as I continue the challenge!
