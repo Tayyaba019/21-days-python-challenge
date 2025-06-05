@@ -21,6 +21,7 @@ Each day, I’m building a small project to improve my coding skills. 💻
 | 10  | Turtle Racing Game        | [Day-10](Day-10/) |
 | 11  | WPM Typing Test           | [Day-11](Day-11/) |
 | 12  | Password Generator        | [Day-12](Day-12/) |
+| 13  | Maze Solver (BFS Visual)  | [Day-13](Day-13/) |
 
 
 
