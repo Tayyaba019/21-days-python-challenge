@@ -7,8 +7,8 @@ Each day, I’m building a small project to improve my coding skills. 💻
 
 ## 📅 Daily Projects
 
-| Day | Project Name              | Link             |
-|-----|---------------------------|------------------|
+| Day | Project Name              | Link              |
+|-----|---------------------------|-------------------|
 | 1   | Quiz Game                 | [Day-1](Day-1/)   |
 | 2   | Guess a Number            | [Day-2](Day-2/)   |
 | 3   | Rock Paper Scissors       | [Day-3](Day-3/)   |
@@ -22,6 +22,8 @@ Each day, I’m building a small project to improve my coding skills. 💻
 | 11  | WPM Typing Test           | [Day-11](Day-11/) |
 | 12  | Password Generator        | [Day-12](Day-12/) |
 | 13  | Maze Solver (BFS Visual)  | [Day-13](Day-13/) |
+| 14  | Currency Converter        | [Day-14](Day-14/) |
 
+---
 
-
+Stay tuned for more exciting projects! 🌟
