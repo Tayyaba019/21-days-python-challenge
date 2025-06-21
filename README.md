@@ -23,6 +23,8 @@ Each day, I’m building a small project to improve my coding skills. 💻
 | 12  | Password Generator        | [Day-12](Day-12/) |
 | 13  | Maze Solver (BFS Visual)  | [Day-13](Day-13/) |
 | 14  | Currency Converter        | [Day-14](Day-14/) |
+| 15  | YouTube Video Downloader  | [Day-15](Day-15/) |
+| 16  | Daily Folder Backup Tool  | [Day-16](Day-16/) |
 
 ---
 
